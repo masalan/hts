@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LivelyCart 1.x :: JQuery PHP Store Shop\n"
+"POT-Creation-Date: 2019-02-14 15:21+0530\n"
+"PO-Revision-Date: 2019-03-08 13:05+0530\n"
+"Last-Translator: Vinod <vinod@livelyworks.net>\n"
+"Language-Team: \n"
+"Language: mr_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-SearchPath-0: ../../../lw_application\n"
+
+#: ../../../lw_application/config/pagination.php:6
+msgid "First"
+msgstr "पहिला"
+
+#: ../../../lw_application/config/pagination.php:9
+msgid "Last"
+msgstr "शेवटचे"
+
+#: ../../../lw_application/config/pagination.php:18
+msgid "&laquo; Previous"
+msgstr "& laquo; मागील"
+
+#: ../../../lw_application/config/pagination.php:19
+msgid "Next &raquo;"
+msgstr "पुढील & raquo;"
+
+#: ../../../lw_application/controllers/Auth.php:60 ../../../lw_application/controllers/Auth.php:210 ../../../lw_application/controllers/Auth.php:298 ../../../lw_application/controllers/Auth.php:387
+#: ../../../lw_application/controllers/Auth.php:512 ../../../lw_application/views/bootstrap2/auth/login_form.php:15 ../../../lw_application/views/bootstrap2/auth/login_form.php:47
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:123 ../../../lw_application/views/bootstrap2/template.php:87 ../../../lw_application/views/bootstrap3/auth/login_form.php:16
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:52 ../../../lw_application/views/bootstrap3/auth/login_form.php:134 ../../../lw_application/views/bootstrap3/template.php:101
+msgid "Login"
+msgstr "लॉग इन"
+
+#: ../../../lw_application/controllers/Auth.php:61 ../../../lw_application/controllers/Auth.php:163 ../../../lw_application/controllers/Auth.php:457 ../../../lw_application/controllers/Auth.php:534
+#: ../../../lw_application/views/bootstrap2/auth/change_email_form.php:30 ../../../lw_application/views/bootstrap2/auth/login_form.php:63 ../../../lw_application/views/bootstrap2/auth/register_form.php:77
+#: ../../../lw_application/views/bootstrap2/auth/unregister_form.php:21 ../../../lw_application/views/bootstrap3/auth/change_email_form.php:34 ../../../lw_application/views/bootstrap3/auth/login_form.php:72
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:82 ../../../lw_application/views/bootstrap3/auth/unregister_form.php:21
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: ../../../lw_application/controllers/Auth.php:62 ../../../lw_application/views/bootstrap2/auth/login_form.php:116 ../../../lw_application/views/bootstrap3/auth/login_form.php:127
+msgid "Remember me"
+msgstr "माझी आठवण ठेवा"
+
+#: ../../../lw_application/controllers/Auth.php:74 ../../../lw_application/controllers/Auth.php:76 ../../../lw_application/controllers/Auth.php:170 ../../../lw_application/controllers/Auth.php:172
+msgid "Confirmation Code"
+msgstr "पुष्टीकरण कोड"
+
+#: ../../../lw_application/controllers/Auth.php:160 ../../../lw_application/views/bootstrap2/auth/register_form.php:60 ../../../lw_application/views/bootstrap3/auth/register_form.php:65
+msgid "Username"
+msgstr "वापरकर्तानाव"
+
+#: ../../../lw_application/controllers/Auth.php:162 ../../../lw_application/controllers/Auth.php:250 ../../../lw_application/controllers/Auth.php:458 ../../../lw_application/controllers/Shopping_cart.php:265
+#: ../../../lw_application/views/bootstrap2/auth/forgot_password_form.php:14 ../../../lw_application/views/bootstrap2/auth/login_form.php:17 ../../../lw_application/views/bootstrap2/email/order_submit_email.php:25
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:24 ../../../lw_application/views/bootstrap2/store/submit_order_form.php:118
+#: ../../../lw_application/views/bootstrap3/auth/forgot_password_form.php:15 ../../../lw_application/views/bootstrap3/auth/login_form.php:18 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:25
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:24 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:131
+msgid "Email"
+msgstr "ईमेल"
+
+#: ../../../lw_application/controllers/Auth.php:164 ../../../lw_application/views/bootstrap2/auth/register_form.php:85 ../../../lw_application/views/bootstrap3/auth/register_form.php:90
+msgid "Confirm Password"
+msgstr "पासवर्डची पुष्टी करा"
+
+#: ../../../lw_application/controllers/Auth.php:319 ../../../lw_application/views/bootstrap2/auth/forgot_password_form.php:12 ../../../lw_application/views/bootstrap2/auth/login_form.php:13
+#: ../../../lw_application/views/bootstrap3/auth/forgot_password_form.php:13 ../../../lw_application/views/bootstrap3/auth/login_form.php:14
+msgid "Email or login"
+msgstr "ईमेल किंवा लॉगिन करा"
+
+#: ../../../lw_application/controllers/Auth.php:364 ../../../lw_application/controllers/Auth.php:419 ../../../lw_application/views/bootstrap2/auth/change_password_form.php:44
+#: ../../../lw_application/views/bootstrap2/auth/reset_password_form.php:29 ../../../lw_application/views/bootstrap3/auth/change_password_form.php:50 ../../../lw_application/views/bootstrap3/auth/reset_password_form.php:32
+msgid "New Password"
+msgstr "नवीन पासवर्ड"
+
+#: ../../../lw_application/controllers/Auth.php:365 ../../../lw_application/controllers/Auth.php:420
+msgid "Confirm new Password"
+msgstr "नवीन परवलीच्या शब्दाची खात्री करा"
+
+#: ../../../lw_application/controllers/Auth.php:418 ../../../lw_application/views/bootstrap2/auth/change_password_form.php:36 ../../../lw_application/views/bootstrap3/auth/change_password_form.php:42
+msgid "Old Password"
+msgstr "जुना पासवर्ड"
+
+#: ../../../lw_application/controllers/Auth.php:731 ../../../lw_application/controllers/Auth.php:744
+msgid "Verification code incorrect"
+msgstr "सत्यापन कोड चुकीचा आहे"
+
+#: ../../../lw_application/controllers/Manage_categories.php:86 ../../../lw_application/controllers/Manage_categories.php:135
+msgid "Category Name"
+msgstr "श्रेणीचे नाव"
+
+#: ../../../lw_application/controllers/Manage_categories.php:93
+msgid "Same category already Exist!!"
+msgstr "समान श्रेणी आधीच अस्तित्वात आहे !!"
+
+#: ../../../lw_application/controllers/Manage_categories.php:99
+msgid "Category Added!!"
+msgstr "श्रेणी जोडली !!"
+
+#: ../../../lw_application/controllers/Manage_categories.php:140
+msgid "Category ID"
+msgstr "श्रेणी आयडी"
+
+#: ../../../lw_application/controllers/Manage_categories.php:168
+msgid "Category Updated!!"
+msgstr "वर्ग अद्यतनित!!"
+
+#: ../../../lw_application/controllers/Manage_categories.php:171
+msgid "No changes!!"
+msgstr "काहीही बदल नाही!!"
+
+#: ../../../lw_application/controllers/Manage_categories.php:211
+msgid "Category Deleted"
+msgstr "श्रेणी हटविली"
+
+#: ../../../lw_application/controllers/Manage_products.php:173 ../../../lw_application/controllers/Manage_products.php:304
+msgid "Product Name"
+msgstr "उत्पादनाचे नांव"
+
+#: ../../../lw_application/controllers/Manage_products.php:176
+msgid "Product Thumbnail"
+msgstr "उत्पादन लघुप्रतिमा"
+
+#: ../../../lw_application/controllers/Manage_products.php:178 ../../../lw_application/controllers/Manage_products.php:308 ../../../lw_application/controllers/Shopping_cart.php:95
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:87 ../../../lw_application/views/bootstrap2/store/edit_product_form.php:92 ../../../lw_application/views/bootstrap2/store/product_details_view.php:42
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:45 ../../../lw_application/views/bootstrap3/store/add_product_form.php:94 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:98
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:46 ../../../lw_application/views/bootstrap3/store/product_details_view.php:49 ../../../lw_application/views/bootstrap3/store/temp.php:45
+#: ../../../lw_application/views/bootstrap3/store/temp.php:49
+msgid "Product ID"
+msgstr "उत्पादन आयडी"
+
+#: ../../../lw_application/controllers/Manage_products.php:182 ../../../lw_application/controllers/Manage_products.php:312
+msgid "Product Price"
+msgstr "उत्पादन किंमत"
+
+#: ../../../lw_application/controllers/Manage_products.php:185 ../../../lw_application/controllers/Manage_products.php:315 ../../../lw_application/views/bootstrap2/store/add_product_form.php:125
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:130 ../../../lw_application/views/bootstrap3/store/add_product_form.php:143 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:148
+msgid "Product Sizes"
+msgstr "उत्पादन आकार"
+
+#: ../../../lw_application/controllers/Manage_products.php:186 ../../../lw_application/controllers/Manage_products.php:316 ../../../lw_application/views/bootstrap2/store/add_product_form.php:132
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:137 ../../../lw_application/views/bootstrap3/store/add_product_form.php:151 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:156
+msgid "Product Colors"
+msgstr "उत्पादन रंग"
+
+#: ../../../lw_application/controllers/Manage_products.php:188 ../../../lw_application/controllers/Manage_products.php:318 ../../../lw_application/views/bootstrap2/store/add_product_form.php:118
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:123 ../../../lw_application/views/bootstrap3/store/add_product_form.php:135 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:140
+msgid "Product Details"
+msgstr "उत्पादन तपशील"
+
+#: ../../../lw_application/controllers/Manage_products.php:237
+msgid "New Product Added!!"
+msgstr "नवीन उत्पादन जोडले !!"
+
+#: ../../../lw_application/controllers/Manage_products.php:416 ../../../lw_application/controllers/Settings.php:267
+msgid "Successfully Updated!!"
+msgstr "यशस्वीरित्या अद्यतनित केले !!"
+
+#: ../../../lw_application/controllers/Manage_products.php:420 ../../../lw_application/controllers/Manage_products.php:423 ../../../lw_application/controllers/Settings.php:269
+#: ../../../lw_application/controllers/Settings.php:272
+msgid "No changes"
+msgstr "काहीही बदल नाही"
+
+#: ../../../lw_application/controllers/Manage_products.php:490
+msgid "Thumbnail is required."
+msgstr "लघुप्रतिमा आवश्यक आहे."
+
+#: ../../../lw_application/controllers/Manage_products.php:506
+msgid "The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces"
+msgstr "नावामध्ये केवळ अल्फा-न्यूमेरिक वर्ण, डॅश, अंडरस्कोअर, कोलन आणि स्पेसेस असू शकतात"
+
+#: ../../../lw_application/controllers/Product.php:140 ../../../lw_application/views/bootstrap2/template/sidebar.php:50 ../../../lw_application/views/bootstrap3/template/sidebar.php:53
+msgid "All Products"
+msgstr "सर्व उत्पादने"
+
+#: ../../../lw_application/controllers/Product.php:159
+#, php-format
+msgid "Products from %s"
+msgstr "%s उत्पादने"
+
+#: ../../../lw_application/controllers/Product.php:188
+msgid "Product id missing!!"
+msgstr "उत्पादन आयडी गहाळ !!"
+
+#: ../../../lw_application/controllers/Product.php:337
+msgid "Search Result"
+msgstr "शोधेचा निकाल"
+
+#: ../../../lw_application/controllers/Product.php:376
+msgid "product not found"
+msgstr "उत्पादन सापडले नाही"
+
+#: ../../../lw_application/controllers/Settings.php:102
+msgid "Logo"
+msgstr "लोगो"
+
+#: ../../../lw_application/controllers/Settings.php:103 ../../../lw_application/views/bootstrap2/store/store_settings_form.php:128 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:147
+msgid "Store Name"
+msgstr "स्टोअरचे नाव"
+
+#: ../../../lw_application/controllers/Settings.php:105 ../../../lw_application/views/bootstrap2/store/store_settings_form.php:147 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:168
+msgid "Business Email"
+msgstr "व्यवसाय ईमेल"
+
+#: ../../../lw_application/controllers/Settings.php:109 ../../../lw_application/views/bootstrap2/store/store_settings_form.php:177 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:193
+msgid "Currency"
+msgstr "चलन"
+
+#: ../../../lw_application/controllers/Settings.php:113 ../../../lw_application/views/bootstrap2/store/store_settings_form.php:189 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:202
+msgid "Currency Symbol"
+msgstr "चलन चिन्ह"
+
+#: ../../../lw_application/controllers/Settings.php:117
+msgid "Use Paypal"
+msgstr "PayPal वापरा"
+
+#: ../../../lw_application/controllers/Settings.php:121
+msgid "Use Submit Order"
+msgstr "ईमेल सबमिट मागणी"
+
+#: ../../../lw_application/controllers/Settings.php:125 ../../../lw_application/views/bootstrap2/store/store_settings_form.php:202 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:219
+msgid "Shipping Charges"
+msgstr "शिपिंग शुल्क"
+
+#: ../../../lw_application/controllers/Settings.php:129 ../../../lw_application/views/bootstrap2/store/store_settings_form.php:212 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:229
+msgid "Shipping Free After"
+msgstr "विनामूल्य शिपिंग नंतर"
+
+#: ../../../lw_application/controllers/Settings.php:134 ../../../lw_application/views/bootstrap2/store/store_settings_form.php:223 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:244
+msgid "Message on Order Submit"
+msgstr "ऑर्डर सबमिट संदेश"
+
+#: ../../../lw_application/controllers/Settings.php:291
+msgid "Shipping amount can not less than 0"
+msgstr "शिपिंग रक्कम शुन्यहुन कमी असु शकत नाही."
+
+#: ../../../lw_application/controllers/Shopping_cart.php:92 ../../../lw_application/views/bootstrap2/email/order_submit_email.php:40 ../../../lw_application/views/bootstrap2/store/cart_view.php:31
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:39 ../../../lw_application/views/bootstrap3/store/cart_view.php:35 ../../../lw_application/views/bootstrap3/store/product_details_view.php:60
+msgid "Size"
+msgstr "आकार"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:93 ../../../lw_application/views/bootstrap2/email/order_submit_email.php:41 ../../../lw_application/views/bootstrap2/store/cart_view.php:32
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:40 ../../../lw_application/views/bootstrap3/store/cart_view.php:36 ../../../lw_application/views/bootstrap3/store/product_details_view.php:68
+msgid "Color"
+msgstr "रंग"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:99
+msgid "Product Qty"
+msgstr "उत्पादन मात्रा"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:193 ../../../lw_application/views/bootstrap2/template.php:26 ../../../lw_application/views/bootstrap3/template.php:26
+msgid "item"
+msgstr "वस्त"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:193 ../../../lw_application/views/bootstrap2/template.php:26 ../../../lw_application/views/bootstrap3/template.php:26
+msgid "items"
+msgstr "वस्तु"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:196 ../../../lw_application/views/bootstrap2/template.php:29 ../../../lw_application/views/bootstrap3/template.php:29
+msgid "<strong>%total_items%</strong> %item_select% of <strong>%glo_total%</strong> in your"
+msgstr " <strong>%glo_total%</strong> किमतीच्या <strong>%total_items%</strong> %item_select%"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:263 ../../../lw_application/views/bootstrap2/email/order_submit_email.php:23 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:23
+#: ../../../lw_application/views/bootstrap2/store/add_category_form.php:30 ../../../lw_application/views/bootstrap2/store/add_product_form.php:80 ../../../lw_application/views/bootstrap2/store/categories_view.php:18
+#: ../../../lw_application/views/bootstrap2/store/edit_category_form.php:36 ../../../lw_application/views/bootstrap2/store/edit_product_form.php:85 ../../../lw_application/views/bootstrap2/store/products_list_view.php:18
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:20 ../../../lw_application/views/bootstrap2/store/submit_order_form.php:100 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:23
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:23 ../../../lw_application/views/bootstrap3/store/add_category_form.php:31
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:86 ../../../lw_application/views/bootstrap3/store/categories_view.php:18 ../../../lw_application/views/bootstrap3/store/edit_category_form.php:38
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:90 ../../../lw_application/views/bootstrap3/store/products_list_view.php:18 ../../../lw_application/views/bootstrap3/store/products_view.php:20
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:111
+msgid "Name"
+msgstr "नाव"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:307 ../../../lw_application/controllers/Shopping_cart.php:311 ../../../lw_application/controllers/Shopping_cart.php:335
+msgid "pending"
+msgstr "प्रलंबित"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:324 ../../../lw_application/controllers/Shopping_cart.php:530
+msgid "New Order Placed"
+msgstr "नवीन ऑर्डर दिली"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:345 ../../../lw_application/controllers/Shopping_cart.php:570
+msgid "Your order has been Placed."
+msgstr "आपली ऑर्डर दिली गेली आहे."
+
+#: ../../../lw_application/controllers/Shopping_cart.php:504 ../../../lw_application/controllers/Shopping_cart.php:543
+msgid "Payment"
+msgstr "भरणा"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:505 ../../../lw_application/controllers/Shopping_cart.php:544
+msgid "PayPal"
+msgstr "पेपैल"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:514 ../../../lw_application/controllers/Shopping_cart.php:554
+msgid "Needs further review!!"
+msgstr "पुढील समीक्षा आवश्यक आहे !!"
+
+#: ../../../lw_application/controllers/Shopping_cart.php:516 ../../../lw_application/controllers/Shopping_cart.php:556
+msgid "Confirmed"
+msgstr "पुष्टी केली"
+
+#: ../../../lw_application/language/english/form_validation_lang.php:4
+msgid "The {field} field is required."
+msgstr "{फील्ड} फील्ड आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:5
+msgid "The {field} field must have a value."
+msgstr "{फील्ड} फील्डचे मूल्य असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:6
+msgid "The {field} field must contain a valid email address."
+msgstr "{फील्ड} फील्डमध्ये वैध ईमेल पत्ता असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:7
+msgid "The {field} field must contain all valid email addresses."
+msgstr "{फील्ड} फील्डमध्ये सर्व वैध ईमेल पत्ते असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:8
+msgid "The {field} field must contain a valid URL."
+msgstr "{Field} फील्डमध्ये वैध URL असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:9
+msgid "The {field} field must contain a valid IP."
+msgstr "{फील्ड} फील्डमध्ये वैध आयपी असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:10
+msgid "The {field} field must be at least {param} characters in length."
+msgstr "{Field} फील्ड कमीत कमी {param} वर्ण असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:11
+msgid "The {field} field cannot exceed {param} characters in length."
+msgstr "{फील्ड} फील्ड लांबी {param} वर्णांपेक्षा जास्त शकत नाही."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:12
+msgid "The {field} field must be exactly {param} characters in length."
+msgstr "{Field} फील्ड लांबीच्या {param} वर्णांचे असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:13
+msgid "The {field} field may only contain alphabetical characters."
+msgstr "{Field} फील्डमध्ये केवळ वर्णानुक्रमे असू शकतात."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:14
+msgid "The {field} field may only contain alpha-numeric characters."
+msgstr "{Field} फील्डमध्ये केवळ अल्फा-न्यूमेरिक वर्ण असू शकतात."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:15
+msgid "The {field} field may only contain alpha-numeric characters and spaces."
+msgstr "{Field} फील्डमध्ये केवळ अल्फा-न्यूमेरिक वर्ण आणि स्पेसेस असू शकतात."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:16
+msgid "The {field} field may only contain alpha-numeric characters, underscores, and dashes."
+msgstr "{फील्ड} फील्डमध्ये केवळ अल्फा-न्यूमेरिक वर्ण, अंडरस्कोअर आणि डॅश असू शकतात."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:17
+msgid "The {field} field must contain only numbers."
+msgstr "{Field} फील्डमध्ये केवळ संख्या असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:18
+msgid "The {field} field must contain only numeric characters."
+msgstr "{Field} फील्डमध्ये फक्त अंकीय वर्ण असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:19
+msgid "The {field} field must contain an integer."
+msgstr "{Field} फील्डमध्ये पूर्णांक असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:20
+msgid "The {field} field is not in the correct format."
+msgstr "{फील्ड} फील्ड योग्य स्वरूपात नाही."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:21
+msgid "The {field} field does not match the {param} field."
+msgstr "{फील्ड} फील्ड {param} फील्डशी जुळत नाही."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:22
+msgid "The {field} field must differ from the {param} field."
+msgstr "{फील्ड} फील्ड {param} फील्डपेक्षा भिन्न असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:23
+msgid "The {field} field must contain a unique value."
+msgstr "{Field} फील्डमध्ये एक अनन्य मूल्य असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:24
+msgid "The {field} field must only contain digits."
+msgstr "{Field} फील्डमध्ये फक्त अंक असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:25
+msgid "The {field} field must only contain digits and must be greater than zero."
+msgstr "{Field} फील्डमध्ये केवळ अंक असावेत आणि शून्यपेक्षा मोठा असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:26
+msgid "The {field} field must contain a decimal number."
+msgstr "{Field} फील्डमध्ये दशांश संख्या असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:27
+msgid "The {field} field must contain a number less than {param}."
+msgstr "{Field} फील्डमध्ये {param} पेक्षा कमी संख्येचा समावेश असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:28
+msgid "The {field} field must contain a number less than or equal to {param}."
+msgstr "{Field} फील्डमध्ये {param} पेक्षा कमी किंवा त्यापेक्षा कमी असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:29
+msgid "The {field} field must contain a number greater than {param}."
+msgstr "{Field} फील्डमध्ये {param} पेक्षा मोठी संख्या असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/form_validation_lang.php:30
+msgid "The {field} field must contain a number greater than or equal to {param}."
+msgstr "{Field} फील्डमध्ये {param} पेक्षा मोठी किंवा त्यापेक्षा मोठी संख्या असणे आवश्यक आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:4
+msgid "We didn't recognize the username or password you entered. Please try again."
+msgstr "आम्ही आपण प्रविष्ट केलेले वापरकर्तानाव किंवा संकेतशब्द ओळखला नाही. कृपया पुन्हा प्रयत्न करा."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:6
+msgid "Login or email doesn\\'t exist"
+msgstr "लॉगिन किंवा ईमेल अस्तित्वात नाही. "
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:7
+msgid "Email is already used by another user. Please choose another email."
+msgstr "ईमेल  दुसर्या वापरकर्त्याने आधीच वापरले आहे. अन्य ईमेल निवडा."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:8
+msgid "Username already exists. Please choose another username."
+msgstr "वापरकर्तानाव आधीच अस्तित्वात आहे. कृपया दुसरे वापरकर्तानाव निवडा."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:9
+msgid "This is your current email"
+msgstr "हा आपल्या वर्तमान ईमेल आहे"
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:10
+msgid "Your confirmation code does not match the one in the image."
+msgstr "आपला पुष्टीकरण कोड प्रतिमा जुळत नाही."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:11
+msgid "Your confirmation code has expired. Please try again."
+msgstr "आपला पुष्टीकरण कोड कालबाह्य झाला आहे. कृपया पुन्हा प्रयत्न करा."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:14
+msgid "You have been successfully logged out."
+msgstr "आपण यशस्वीपणे लॉग आउट केले आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:15
+msgid "Registration is disabled."
+msgstr "नोंदणी अक्षम केली आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:16
+msgid "You have successfully registered. Check your email address to activate your account."
+msgstr "आपण यशस्वीरित्या नोंदणी केली आहे. आपले खाते सक्रिय करण्यासाठी आपला ईमेल पत्ता तपासा."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:17
+msgid "You have successfully registered."
+msgstr "आपण यशस्वीरित्या नोंदणी केली आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:18
+#, php-format
+msgid "A new activation email has been sent to %s. Follow the instructions in the email to activate your account."
+msgstr "एक नवीन सक्रियकरण ईमेल %s पाठविला गेला आहे. आपले खाते सक्रिय करण्यासाठी ईमेलमधील निर्देशांचे अनुसरण करा."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:19
+msgid "Your account has been successfully activated."
+msgstr "आपले खाते यशस्वीरित्या सक्रिय केले गेले आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:20
+msgid "The activation code you entered is incorrect or expired."
+msgstr "आपण प्रविष्ट केलेला सक्रियता कोड चुकीचा किंवा कालबाह्य झाला आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:21
+msgid "Your password has been successfully changed."
+msgstr "तुमचा पासवर्ड यशस्वीरित्या बदलला आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:22
+msgid "An email with instructions for creating a new password has been sent to you."
+msgstr "नवीन पासवर्ड तयार करण्यासाठी निर्देशांसह एक ईमेल आपल्याला पाठविण्यात आला आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:23
+msgid "You have successfully reset your password"
+msgstr "आपण आपला संकेतशब्द यशस्वीरित्या रीसेट केला आहे"
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:24 ../../../lw_application/language/english/tank_auth_lang.php:27
+msgid "Your activation key is incorrect or expired. Please check your email again and follow the instructions."
+msgstr "आपली सक्रियता की चुकीची किंवा कालबाह्य झाली आहे. कृपया पुन्हा आपला ईमेल तपासा आणि सूचनांचे अनुसरण करा."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:25
+#, php-format
+msgid "A confirmation email has been sent to %s. Follow the instructions in the email to complete this change of email address."
+msgstr "पुष्टीकरण ईमेल %s पाठविला गेला आहे. ईमेल पत्त्यातील बदल पूर्ण करण्यासाठी ईमेलमधील सूचनांचे अनुसरण करा."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:26
+msgid "You have successfully changed your email"
+msgstr "आपण यशस्वीरित्या आपला ईमेल बदलला आहे"
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:28
+msgid "You are banned."
+msgstr "आपण बंदी घातली आहे."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:29
+msgid "Your account has been deleted..."
+msgstr "आपले खाते हटवले गेले आहे ..."
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:32 ../../../lw_application/language/english/tank_auth_lang.php:33
+#, php-format
+msgid "Welcome to %s!"
+msgstr "%s स्वागत आहे!"
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:34
+#, php-format
+msgid "Forgot your password on %s?"
+msgstr "आपला पासवर्ड %s वर विसरलात?"
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:35 ../../../lw_application/views/bootstrap2/email/reset_password-html.php:4 ../../../lw_application/views/bootstrap2/email/reset_password-html.php:11
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:4 ../../../lw_application/views/bootstrap3/email/reset_password-html.php:11
+#, php-format
+msgid "Your new password on %s"
+msgstr "आपला नवीन पासवर्ड %s"
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:36 ../../../lw_application/views/bootstrap2/email/change_email-html.php:4 ../../../lw_application/views/bootstrap2/email/change_email-html.php:11
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:4 ../../../lw_application/views/bootstrap3/email/change_email-html.php:11
+#, php-format
+msgid "Your new email address on %s"
+msgstr "आपला नवीन ईमेल पत्ता %s"
+
+#: ../../../lw_application/language/english/upload_lang.php:4
+msgid "Unable to find a post variable called userfile."
+msgstr "वापरकर्ता फाइल नामक पोस्ट व्हेरिएबल शोधण्यात अक्षम."
+
+#: ../../../lw_application/language/english/upload_lang.php:5
+msgid "The uploaded file exceeds the maximum allowed size in your PHP configuration file."
+msgstr "अपलोड केलेली फाइल आपल्या PHP कॉन्फिगरेशन फाइलमधील कमाल परवानगी आकारापेक्षा मोठी आहे."
+
+#: ../../../lw_application/language/english/upload_lang.php:6
+msgid "The uploaded file exceeds the maximum size allowed by the submission form."
+msgstr "अपलोड केलेल्या फाइलने सबमिशन फॉर्मद्वारे अनुमती असलेल्या कमाल आकारापेक्षा जास्त आहे."
+
+#: ../../../lw_application/language/english/upload_lang.php:7
+msgid "The file was only partially uploaded."
+msgstr "फाइल केवळ अंशतः अपलोड केली गेली."
+
+#: ../../../lw_application/language/english/upload_lang.php:8
+msgid "The temporary folder is missing."
+msgstr "तात्पुरते फोल्डर गहाळ आहे."
+
+#: ../../../lw_application/language/english/upload_lang.php:9
+msgid "The file could not be written to disk."
+msgstr "फाइल डिस्कवर लिहिली जाऊ शकली नाही."
+
+#: ../../../lw_application/language/english/upload_lang.php:10
+msgid "The file upload was stopped by extension."
+msgstr "विस्ताराने फाइल अपलोड थांबविली."
+
+#: ../../../lw_application/language/english/upload_lang.php:11
+msgid "You did not select a file to upload."
+msgstr "आपण अपलोड करण्यासाठी एक फाइल निवडली नाही."
+
+#: ../../../lw_application/language/english/upload_lang.php:12
+msgid "The filetype you are attempting to upload is not allowed."
+msgstr "आपण अपलोड करण्याचा प्रयत्न करीत असलेल्या फाइलटाइपला अनुमती नाही."
+
+#: ../../../lw_application/language/english/upload_lang.php:13
+msgid "The file you are attempting to upload is larger than the permitted size."
+msgstr "आपण अपलोड करण्याचा प्रयत्न करीत असलेली फाइल परवानगी आकारापेक्षा मोठी आहे."
+
+#: ../../../lw_application/language/english/upload_lang.php:14
+msgid "The image you are attempting to upload doesn\\'t fit into the allowed dimensions."
+msgstr "आपण अपलोड करण्याचा प्रयत्न करीत असलेली प्रतिमा परवानगी असलेल्या परिमाणेमध्ये फिट होत नाही."
+
+#: ../../../lw_application/language/english/upload_lang.php:15
+msgid "A problem was encountered while attempting to move the uploaded file to the final destination."
+msgstr "अपलोड केलेल्या फाईलला अंतिम गंतव्यस्थानावर हलविण्याचा प्रयत्न करताना समस्या आली."
+
+#: ../../../lw_application/language/english/upload_lang.php:16
+msgid "The upload path does not appear to be valid."
+msgstr "अपलोड मार्ग वैध असल्याचे दिसत नाही."
+
+#: ../../../lw_application/language/english/upload_lang.php:17
+msgid "You have not specified any allowed file types."
+msgstr "आपण कोणत्याही परवानगी दिलेल्या फाइल प्रकार निर्दिष्ट केलेले नाहीत."
+
+#: ../../../lw_application/language/english/upload_lang.php:18
+msgid "The file name you submitted already exists on the server."
+msgstr "आपण सबमिट केलेले फाइल नाव सर्व्हरवर आधीच अस्तित्वात आहे."
+
+#: ../../../lw_application/language/english/upload_lang.php:19
+msgid "The upload destination folder does not appear to be writable."
+msgstr "अपलोड गंतव्य फोल्डर लिहिण्यायोग्य दिसत नाही."
+
+#: ../../../lw_application/views/bootstrap2/auth/change_email_form.php:28 ../../../lw_application/views/bootstrap2/template.php:99 ../../../lw_application/views/bootstrap2/template/sidebar.php:31
+#: ../../../lw_application/views/bootstrap3/auth/change_email_form.php:31 ../../../lw_application/views/bootstrap3/template.php:115 ../../../lw_application/views/bootstrap3/template/sidebar.php:27
+msgid "Change Email"
+msgstr "ई - मेल बदला"
+
+#: ../../../lw_application/views/bootstrap2/auth/change_email_form.php:38 ../../../lw_application/views/bootstrap3/auth/change_email_form.php:42
+msgid "New email address"
+msgstr "नवीन ईमेल पत्ता"
+
+#: ../../../lw_application/views/bootstrap2/auth/change_email_form.php:47 ../../../lw_application/views/bootstrap3/auth/change_email_form.php:52
+msgid "Send confirmation email"
+msgstr "पुष्टीकरण ईमेल पाठवा"
+
+#: ../../../lw_application/views/bootstrap2/auth/change_password_form.php:34 ../../../lw_application/views/bootstrap2/auth/change_password_form.php:60
+#: ../../../lw_application/views/bootstrap2/auth/reset_password_form.php:27 ../../../lw_application/views/bootstrap2/auth/reset_password_form.php:45 ../../../lw_application/views/bootstrap2/template.php:98
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:30 ../../../lw_application/views/bootstrap3/auth/change_password_form.php:39 ../../../lw_application/views/bootstrap3/auth/change_password_form.php:67
+#: ../../../lw_application/views/bootstrap3/auth/reset_password_form.php:30 ../../../lw_application/views/bootstrap3/auth/reset_password_form.php:52 ../../../lw_application/views/bootstrap3/template.php:114
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:26
+msgid "Change Password"
+msgstr "पासवर्ड बदला"
+
+#: ../../../lw_application/views/bootstrap2/auth/change_password_form.php:51 ../../../lw_application/views/bootstrap2/auth/reset_password_form.php:37
+#: ../../../lw_application/views/bootstrap3/auth/change_password_form.php:58 ../../../lw_application/views/bootstrap3/auth/reset_password_form.php:44
+msgid "Confirm New Password"
+msgstr "नवीन परवलीच्या शब्दाची खात्री करा"
+
+#: ../../../lw_application/views/bootstrap2/auth/forgot_password_form.php:28 ../../../lw_application/views/bootstrap3/auth/forgot_password_form.php:31
+msgid "Get a New Password"
+msgstr "एक नवीन पासवर्ड मिळवा"
+
+#: ../../../lw_application/views/bootstrap2/auth/forgot_password_form.php:39 ../../../lw_application/views/bootstrap3/auth/forgot_password_form.php:43
+msgid "Get a new password"
+msgstr "एक नवीन पासवर्ड मिळवा"
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:76 ../../../lw_application/views/bootstrap2/auth/register_form.php:98 ../../../lw_application/views/bootstrap3/auth/login_form.php:86
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:103
+msgid "Get another CAPTCHA"
+msgstr "दुसरी कॅप्चा मिळवा"
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:77 ../../../lw_application/views/bootstrap2/auth/register_form.php:99 ../../../lw_application/views/bootstrap3/auth/login_form.php:87
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:104
+msgid "Get an audio CAPTCHA"
+msgstr "एक कॅप्चा प्राप्त करा"
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:78 ../../../lw_application/views/bootstrap2/auth/register_form.php:100 ../../../lw_application/views/bootstrap3/auth/login_form.php:88
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:105
+msgid "Get an image CAPTCHA"
+msgstr "प्रतिमा कॅप्चा मिळवा"
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:83 ../../../lw_application/views/bootstrap2/auth/register_form.php:105 ../../../lw_application/views/bootstrap3/auth/login_form.php:93
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:110
+msgid "Enter the words above"
+msgstr "वरील शब्द प्रविष्ट करा"
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:84 ../../../lw_application/views/bootstrap2/auth/register_form.php:106 ../../../lw_application/views/bootstrap3/auth/login_form.php:94
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:111
+msgid "Enter the numbers you hear"
+msgstr "आपण ऐकत असलेली संख्या प्रविष्ट करा"
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:101 ../../../lw_application/views/bootstrap2/auth/register_form.php:123 ../../../lw_application/views/bootstrap3/auth/login_form.php:111
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:128
+msgid "Not readable? Change text."
+msgstr "वाचनीय नाही? मजकूर बदला."
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:124 ../../../lw_application/views/bootstrap3/auth/login_form.php:135
+msgid "Forgot password"
+msgstr "पासवर्ड विसरला"
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:125 ../../../lw_application/views/bootstrap2/auth/register_form.php:57 ../../../lw_application/views/bootstrap2/auth/register_form.php:134
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:136 ../../../lw_application/views/bootstrap3/auth/register_form.php:62 ../../../lw_application/views/bootstrap3/auth/register_form.php:139
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:144
+msgid "Register"
+msgstr "नोंदणी करा"
+
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:68 ../../../lw_application/views/bootstrap2/auth/send_again_form.php:22 ../../../lw_application/views/bootstrap3/auth/register_form.php:73
+#: ../../../lw_application/views/bootstrap3/auth/send_again_form.php:22
+msgid "Email Address"
+msgstr "ईमेल पत्ता"
+
+#: ../../../lw_application/views/bootstrap2/auth/send_again_form.php:20 ../../../lw_application/views/bootstrap3/auth/send_again_form.php:20
+msgid "Send Activation Again"
+msgstr "पुन्हा सक्रियता पाठवा"
+
+#: ../../../lw_application/views/bootstrap2/auth/send_again_form.php:31 ../../../lw_application/views/bootstrap3/auth/send_again_form.php:31
+msgid "Send"
+msgstr "पाठवा"
+
+#: ../../../lw_application/views/bootstrap2/auth/send_again_form.php:32 ../../../lw_application/views/bootstrap2/template.php:101 ../../../lw_application/views/bootstrap2/template/sidebar.php:32
+#: ../../../lw_application/views/bootstrap3/auth/send_again_form.php:32 ../../../lw_application/views/bootstrap3/template.php:117 ../../../lw_application/views/bootstrap3/template/sidebar.php:28
+msgid "Logout"
+msgstr "बाहेर पडणे"
+
+#: ../../../lw_application/views/bootstrap2/auth/unregister_form.php:19 ../../../lw_application/views/bootstrap3/auth/unregister_form.php:19
+msgid "Delete Account"
+msgstr "खाते हटवा"
+
+#: ../../../lw_application/views/bootstrap2/auth/unregister_form.php:29 ../../../lw_application/views/bootstrap3/auth/unregister_form.php:29
+msgid "Delete account"
+msgstr "खाते हटवा"
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:4 ../../../lw_application/views/bootstrap2/email/activate-html.php:11 ../../../lw_application/views/bootstrap2/email/activate-txt.php:2
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:4 ../../../lw_application/views/bootstrap2/email/welcome-html.php:11 ../../../lw_application/views/bootstrap2/email/welcome-txt.php:2
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:4 ../../../lw_application/views/bootstrap3/email/activate-html.php:11 ../../../lw_application/views/bootstrap3/email/activate-txt.php:2
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:4 ../../../lw_application/views/bootstrap3/email/welcome-html.php:11 ../../../lw_application/views/bootstrap3/email/welcome-txt.php:2
+#, php-format
+msgid "Welcome to %s"
+msgstr "%s आपले स्वागत आहे"
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:12 ../../../lw_application/views/bootstrap2/email/activate-txt.php:4 ../../../lw_application/views/bootstrap3/email/activate-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:4
+#, php-format
+msgid "Thanks for joining %s. We listed your sign in details below, make sure you keep them safe."
+msgstr "%s सामील होण्याबद्दल धन्यवाद. आम्ही आपली साइन इन तपशील खाली सूचीबद्ध केली आहे, आपण ते सुरक्षित ठेवता हे सुनिश्चित करा."
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:14 ../../../lw_application/views/bootstrap2/email/activate-txt.php:5 ../../../lw_application/views/bootstrap3/email/activate-html.php:14
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:5
+msgid "To verify your email address, please follow this link:"
+msgstr "तुमचा ईमेल पत्ता पडताळण्यासाठी, कृपया या दुव्याचे अनुसरण कराः"
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:16 ../../../lw_application/views/bootstrap3/email/activate-html.php:16
+msgid "Finish your registration..."
+msgstr "आपली नोंदणी समाप्त करा ..."
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:18 ../../../lw_application/views/bootstrap2/email/change_email-html.php:18 ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:17
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:18 ../../../lw_application/views/bootstrap3/email/activate-html.php:18 ../../../lw_application/views/bootstrap3/email/change_email-html.php:18
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:17 ../../../lw_application/views/bootstrap3/email/welcome-html.php:18
+msgid "Link doesn't work? Copy the following link to your browser address bar:"
+msgstr "लिंक काम करत नाही? खालील लिंक आपल्या ब्राउझर अॅड्रेस बारवर कॉपी करा:"
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:21 ../../../lw_application/views/bootstrap2/email/activate-txt.php:10 ../../../lw_application/views/bootstrap3/email/activate-html.php:21
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:10
+#, php-format
+msgid "Please verify your email within %s hours, otherwise your registration will become invalid and you will have to register again."
+msgstr "कृपया %s तासांमध्ये आपले ईमेल सत्यापित करा, अन्यथा आपले नोंदणी अवैध होईल आणि आपल्याला पुन्हा नोंदणी करावी लागेल."
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:25 ../../../lw_application/views/bootstrap2/email/activate-txt.php:13 ../../../lw_application/views/bootstrap2/email/reset_password-html.php:15
+#: ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:8 ../../../lw_application/views/bootstrap2/email/welcome-html.php:22 ../../../lw_application/views/bootstrap2/email/welcome-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:25 ../../../lw_application/views/bootstrap3/email/activate-txt.php:13 ../../../lw_application/views/bootstrap3/email/reset_password-html.php:15
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:8 ../../../lw_application/views/bootstrap3/email/welcome-html.php:22 ../../../lw_application/views/bootstrap3/email/welcome-txt.php:11
+msgid "Your username:"
+msgstr "तुमचे उपयोजकनावः"
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:30 ../../../lw_application/views/bootstrap2/email/activate-txt.php:24 ../../../lw_application/views/bootstrap2/email/welcome-html.php:27
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:20 ../../../lw_application/views/bootstrap3/email/activate-html.php:30 ../../../lw_application/views/bootstrap3/email/activate-txt.php:24
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:27 ../../../lw_application/views/bootstrap3/email/welcome-txt.php:20
+msgid "Have fun!"
+msgstr "मजा करा!"
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:31 ../../../lw_application/views/bootstrap2/email/activate-txt.php:25 ../../../lw_application/views/bootstrap2/email/change_email-html.php:30
+#: ../../../lw_application/views/bootstrap2/email/change_email-txt.php:18 ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:25 ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:15
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:76 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:79
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:21 ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:18 ../../../lw_application/views/bootstrap2/email/welcome-html.php:28
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:21 ../../../lw_application/views/bootstrap3/email/activate-html.php:31 ../../../lw_application/views/bootstrap3/email/activate-txt.php:25
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:30 ../../../lw_application/views/bootstrap3/email/change_email-txt.php:18 ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:25
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:15 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:74
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:78 ../../../lw_application/views/bootstrap3/email/reset_password-html.php:21
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:18 ../../../lw_application/views/bootstrap3/email/welcome-html.php:28 ../../../lw_application/views/bootstrap3/email/welcome-txt.php:21
+#, php-format
+msgid "The %s Team"
+msgstr "%s कार्यसंघ"
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:12 ../../../lw_application/views/bootstrap2/email/change_email-txt.php:4 ../../../lw_application/views/bootstrap3/email/change_email-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:4
+#, php-format
+msgid "You have changed your email address for %s"
+msgstr "आपण आपला ईमेल पत्ता %s साठी बदलला आहे"
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:14 ../../../lw_application/views/bootstrap2/email/change_email-txt.php:6 ../../../lw_application/views/bootstrap3/email/change_email-html.php:14
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:6
+msgid "Follow this link to confirm your new email address:"
+msgstr "आपल्या नवीन ईमेल पत्त्याची पुष्टी करण्यासाठी या दुव्याचे अनुसरण कराः"
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:16 ../../../lw_application/views/bootstrap3/email/change_email-html.php:16
+msgid "Confirm your new email"
+msgstr "आपल्या नवीन ईमेलची पुष्टी करा"
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:22 ../../../lw_application/views/bootstrap2/email/change_email-txt.php:11 ../../../lw_application/views/bootstrap3/email/change_email-html.php:22
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:11
+#, php-format
+msgid "Your email address: %s"
+msgstr "तुमचा ईमेल पत्ताः %s"
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:26 ../../../lw_application/views/bootstrap3/email/change_email-html.php:26
+msgid "You received this email, because it was requested by  by a user on"
+msgstr "आपल्याला हा ईमेल प्राप्त झाला कारण त्यावर वापरकर्त्याने विनंती केली होती"
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:26 ../../../lw_application/views/bootstrap3/email/change_email-html.php:26
+#, php-format
+msgid "%s user"
+msgstr "%s वापरकर्ता"
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:26 ../../../lw_application/views/bootstrap3/email/change_email-html.php:26
+msgid "If you have received this by mistake, please DO NOT click the confirmation link, and simply delete this email. After a short time, the request will be removed from the system."
+msgstr "आपण चुकून हे प्राप्त केले असल्यास, कृपया पुष्टीकरण दुव्यावर क्लिक करू नका आणि हा ईमेल हटवा. थोड्या वेळानंतर, सिस्टमवरून विनंती काढली जाईल."
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:29 ../../../lw_application/views/bootstrap2/email/change_email-txt.php:17 ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:24
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:14 ../../../lw_application/views/bootstrap2/email/reset_password-html.php:20
+#: ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:17 ../../../lw_application/views/bootstrap3/email/change_email-html.php:29 ../../../lw_application/views/bootstrap3/email/change_email-txt.php:17
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:24 ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:14
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:20 ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:17
+msgid "Thank you,"
+msgstr "धन्यवाद,"
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-txt.php:14 ../../../lw_application/views/bootstrap3/email/change_email-txt.php:14
+#, php-format
+msgid ""
+"You received this email, because it was requested by a %s user. If you have received this by mistake, please DO NOT click the confirmation link, and simply delete this email. After a short time, the request will be "
+"removed from the system."
+msgstr "आपल्याला हा ईमेल प्राप्त झाला आहे, कारण %s वापरकर्त्याने विनंती केली होती. आपण चुकून हे प्राप्त केले असल्यास, कृपया पुष्टीकरण दुव्यावर क्लिक करू नका आणि हा ईमेल हटवा. थोड्या वेळानंतर, सिस्टमवरून विनंती काढली जाईल."
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:4 ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:4
+#, php-format
+msgid "Create a new password on %s"
+msgstr "%s वर नवीन पासवर्ड निर्माण करा"
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:11 ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:15
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:11 ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:15
+msgid "Create a new password"
+msgstr "एक नवीन पासवर्ड तयार करा"
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:12 ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:4
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:12 ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:4
+msgid "Forgot your password, huh? No big deal."
+msgstr "तुमचा पासवर्ड विसरलात, हो? काही मोठी गोष्ट नाही."
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:13 ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:6
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:13 ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:6
+msgid "To create a new password, just follow this link:"
+msgstr "नवीन पासवर्ड तयार करण्यासाठी फक्त या दुव्याचे अनुसरण कराः"
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:21 ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:21 ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:11
+msgid "You received this email, because it was requested by a user on"
+msgstr "आपल्याला हा ईमेल प्राप्त झाला कारण त्यावर वापरकर्त्याने विनंती केली होती"
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:21 ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:21 ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:11
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:21 ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:21 ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:11
+msgid "This is part of the procedure to create a new password on the system. If you DID NOT request a new password then please ignore this email and your password will remain the same."
+msgstr "सिस्टीमवर नवीन पासवर्ड तयार करण्याच्या प्रक्रियेचा हा एक भाग आहे. आपण नवीन पासवर्डची विनंती न केल्यास कृपया या ईमेलकडे दुर्लक्ष करा आणि आपला संकेतशब्द तसाच राहील."
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:14 ../../../lw_application/views/bootstrap2/email/order_submit_email.php:21
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:14 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:21
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:14 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:21
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:14 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:21
+#, php-format
+msgid "%s Order Details"
+msgstr "%s ऑर्डर तपशील"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:22 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:22
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:22 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:22
+msgid "Customer Details"
+msgstr "ग्राहक तपशील"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:24 ../../../lw_application/views/bootstrap2/store/submit_order_form.php:110 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:24
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:123
+msgid "Business Name"
+msgstr "व्यवसायाचे नाव"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:26 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:25
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:127 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:26
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:25 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:140
+msgid "Address"
+msgstr "पत्ता"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:27 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:26
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:137 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:27
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:26 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:154
+msgid "City"
+msgstr "शहर"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:28 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:27
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:28 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:27
+msgid "Zip"
+msgstr "झिप"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:29 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:29
+msgid "Phone"
+msgstr "फोन"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:30 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:28
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:158 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:30
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:28 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:190
+msgid "Country"
+msgstr "देश"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:31 ../../../lw_application/views/bootstrap2/store/submit_order_form.php:167 ../../../lw_application/views/bootstrap3/email/order_submit_email.php:31
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:202
+msgid "Message if any"
+msgstr "जर संदेश असेल तर"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:34 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:35
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:34 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:35
+msgid "Order Details"
+msgstr "ऑर्डर तपशील"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:38 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:39 ../../../lw_application/views/bootstrap2/store/cart_view.php:30
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:38 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:39 ../../../lw_application/views/bootstrap3/store/cart_view.php:34
+msgid "Item Description"
+msgstr "आयटम वर्णन"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:39 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:40
+msgid "Item ID"
+msgstr "आयटम आयडी"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:42 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:41
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:109 ../../../lw_application/views/bootstrap2/store/cart_view.php:33 ../../../lw_application/views/bootstrap2/store/edit_product_form.php:114
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:42 ../../../lw_application/views/bootstrap2/store/product_details_view.php:45
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:41 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:40
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:123 ../../../lw_application/views/bootstrap3/store/cart_view.php:37 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:127
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:46 ../../../lw_application/views/bootstrap3/store/product_details_view.php:49
+#: ../../../lw_application/views/bootstrap3/store/products_list_view.php:19 ../../../lw_application/views/bootstrap3/store/temp.php:45 ../../../lw_application/views/bootstrap3/store/temp.php:49
+msgid "Price"
+msgstr "किंमत"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:43 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:42 ../../../lw_application/views/bootstrap2/store/cart_view.php:34
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:42 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:41 ../../../lw_application/views/bootstrap3/store/cart_view.php:38
+msgid "Qty."
+msgstr "Qty."
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:44 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:43 ../../../lw_application/views/bootstrap2/store/cart_view.php:35
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:43 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:42 ../../../lw_application/views/bootstrap3/store/cart_view.php:39
+msgid "Sub-Total"
+msgstr "उप-एकूण"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:71 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:64 ../../../lw_application/views/bootstrap2/store/cart_view.php:71
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:69 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:63 ../../../lw_application/views/bootstrap3/store/cart_view.php:83
+msgid "Base-Total"
+msgstr "बेस-टोटल"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:71 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:64 ../../../lw_application/views/bootstrap2/store/cart_view.php:71
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:69 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:63 ../../../lw_application/views/bootstrap3/store/cart_view.php:83
+msgid "Shipping"
+msgstr "शिपिंग"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:71 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:64 ../../../lw_application/views/bootstrap2/store/cart_view.php:71
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:69 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:63 ../../../lw_application/views/bootstrap3/store/cart_view.php:83
+msgid "Total"
+msgstr "एकूण"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:73 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:66
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:71 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:65
+msgid "Payment Status"
+msgstr "पैसे भरल्याची स्थिती"
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:75 ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:78
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:73 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:77
+msgid "Thank You"
+msgstr "धन्यवाद"
+
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:68 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:67
+msgid "Payment Method"
+msgstr "पेमेंट पद्धत"
+
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:70 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:69
+msgid "Payment Note"
+msgstr "पेमेंट नोट"
+
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:72 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:71
+msgid "Transaction ID"
+msgstr "व्यवहार आयडी"
+
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:75 ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:74
+msgid "Pending Reason"
+msgstr "प्रलंबित कारण"
+
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:12 ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:4 ../../../lw_application/views/bootstrap3/email/reset_password-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:4
+msgid "You have changed your password."
+msgstr "आपण आपला पासवर्ड बदलला आहे."
+
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:13 ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:5 ../../../lw_application/views/bootstrap3/email/reset_password-html.php:13
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:5
+msgid "Please, keep it in your records so you don't forget it."
+msgstr "कृपया ते आपल्या नोंदींमध्ये ठेवा म्हणजे आपण ते विसरू नका."
+
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:16 ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:11 ../../../lw_application/views/bootstrap2/email/welcome-html.php:23
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:14 ../../../lw_application/views/bootstrap3/email/reset_password-html.php:16 ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:23 ../../../lw_application/views/bootstrap3/email/welcome-txt.php:14
+msgid "Your email address:"
+msgstr "तुमचा ईमेल पत्ताः"
+
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:12 ../../../lw_application/views/bootstrap2/email/welcome-txt.php:4 ../../../lw_application/views/bootstrap3/email/welcome-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/welcome-txt.php:4
+#, php-format
+msgid "Thanks for joining %s. We listed your sign in details below, make sure you keep them safe.<br/>"
+msgstr "%s सामील होण्याबद्दल धन्यवाद. आम्ही आपली साइन इन तपशील खाली सूचीबद्ध केली आहे, आपण त्यांना सुरक्षित ठेवता हे सुनिश्चित करा. <br/>"
+
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:13 ../../../lw_application/views/bootstrap3/email/welcome-html.php:13
+#, php-format
+msgid "To open your %s homepage, please follow this link:"
+msgstr "आपले %s मुख्यपृष्ठ उघडण्यासाठी, कृपया या दुव्याचे अनुसरण करा:"
+
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:16 ../../../lw_application/views/bootstrap3/email/welcome-html.php:16
+#, php-format
+msgid "Go to %s now!"
+msgstr "आता %s वर जा!"
+
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:5 ../../../lw_application/views/bootstrap3/email/welcome-txt.php:5
+msgid "Follow this link to login on the site:"
+msgstr "साइटवर लॉग इन करण्यासाठी या दुव्याचे अनुसरण कराः"
+
+#: ../../../lw_application/views/bootstrap2/store/add_category_form.php:28 ../../../lw_application/views/bootstrap3/store/add_category_form.php:27
+msgid "Add New Category"
+msgstr "नवीन श्रेणी जोडा"
+
+#: ../../../lw_application/views/bootstrap2/store/add_category_form.php:38 ../../../lw_application/views/bootstrap2/store/add_product_form.php:97 ../../../lw_application/views/bootstrap2/store/categories_view.php:14
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:16 ../../../lw_application/views/bootstrap2/store/products_view.php:33 ../../../lw_application/views/bootstrap2/template/sidebar.php:26
+#: ../../../lw_application/views/bootstrap3/store/add_category_form.php:40 ../../../lw_application/views/bootstrap3/store/add_product_form.php:108 ../../../lw_application/views/bootstrap3/store/categories_view.php:14
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:111 ../../../lw_application/views/bootstrap3/store/products_view.php:16 ../../../lw_application/views/bootstrap3/store/products_view.php:34
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:21
+msgid "Add Category"
+msgstr "श्रेणी जोडा"
+
+#: ../../../lw_application/views/bootstrap2/store/add_category_form.php:39 ../../../lw_application/views/bootstrap2/store/edit_category_form.php:45 ../../../lw_application/views/bootstrap3/store/add_category_form.php:41
+#: ../../../lw_application/views/bootstrap3/store/edit_category_form.php:49
+msgid "Back to Categories"
+msgstr "श्रेण्यांवर परत"
+
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:94 ../../../lw_application/views/bootstrap2/store/edit_product_form.php:99 ../../../lw_application/views/bootstrap2/store/product_details_view.php:42
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:45 ../../../lw_application/views/bootstrap2/store/products_view.php:21 ../../../lw_application/views/bootstrap3/store/add_product_form.php:102
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:106 ../../../lw_application/views/bootstrap3/store/product_details_view.php:46
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:49 ../../../lw_application/views/bootstrap3/store/products_view.php:21 ../../../lw_application/views/bootstrap3/store/temp.php:45
+#: ../../../lw_application/views/bootstrap3/store/temp.php:49
+msgid "Category"
+msgstr "वर्ग"
+
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:102 ../../../lw_application/views/bootstrap2/store/edit_product_form.php:106 ../../../lw_application/views/bootstrap3/store/add_product_form.php:114
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:118
+msgid "Thumbnail"
+msgstr "लघुप्रतिमा"
+
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:140 ../../../lw_application/views/bootstrap2/store/categories_view.php:14 ../../../lw_application/views/bootstrap2/store/products_view.php:16
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:33 ../../../lw_application/views/bootstrap2/template/sidebar.php:25 ../../../lw_application/views/bootstrap3/store/add_product_form.php:159
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:14 ../../../lw_application/views/bootstrap3/store/products_view.php:16 ../../../lw_application/views/bootstrap3/store/products_view.php:34
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:23
+msgid "Add Product"
+msgstr "उत्पादन जोडा"
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:36 ../../../lw_application/views/bootstrap2/store/categories_view.php:20 ../../../lw_application/views/bootstrap2/store/products_view.php:22
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:20 ../../../lw_application/views/bootstrap3/store/products_view.php:22
+msgid "Action"
+msgstr "क्रिया"
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:72 ../../../lw_application/views/bootstrap2/store/product_details_view.php:70 ../../../lw_application/views/bootstrap2/store/product_details_view.php:110
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:135 ../../../lw_application/views/bootstrap2/store/store_settings_form.php:234 ../../../lw_application/views/bootstrap3/store/cart_view.php:84
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:80 ../../../lw_application/views/bootstrap3/store/product_details_view.php:123
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:151 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:256 ../../../lw_application/views/bootstrap3/store/temp.php:92
+#: ../../../lw_application/views/bootstrap3/store/temp.php:136 ../../../lw_application/views/bootstrap3/store/temp.php:167
+msgid "Update"
+msgstr "अद्यतन"
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:74 ../../../lw_application/views/bootstrap3/store/cart_view.php:87
+msgid "Continue Shopping"
+msgstr "खरेदी चालू ठेवा"
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:76 ../../../lw_application/views/bootstrap2/store/submit_order_form.php:178 ../../../lw_application/views/bootstrap3/store/cart_view.php:91
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:217
+msgid "Submit Order"
+msgstr "मागणी नोंदवा"
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:78 ../../../lw_application/views/bootstrap3/store/cart_view.php:93
+msgid "Checkout with"
+msgstr "चेकआउट"
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:165 ../../../lw_application/views/bootstrap2/store/submit_order_form.php:192 ../../../lw_application/views/bootstrap2/template.php:178
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:45 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:234 ../../../lw_application/views/bootstrap3/template.php:202
+#: ../../../lw_application/views/bootstrap3/template/js_scripts.php:39
+msgid "Loading..."
+msgstr "लोड करीत आहे ..."
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:13 ../../../lw_application/views/bootstrap2/template/sidebar.php:23 ../../../lw_application/views/bootstrap3/store/categories_view.php:13
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:20
+msgid "Manage Categories"
+msgstr "श्रेण्या व्यवस्थापित करा"
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:19 ../../../lw_application/views/bootstrap2/template/sidebar.php:21 ../../../lw_application/views/bootstrap3/store/categories_view.php:19
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:19
+msgid "Products"
+msgstr "उत्पादने"
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:27 ../../../lw_application/views/bootstrap3/store/categories_view.php:27
+msgid "Add Products"
+msgstr "उत्पादने जोडा"
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:28 ../../../lw_application/views/bootstrap2/store/edit_product_form.php:82 ../../../lw_application/views/bootstrap2/store/product_details_view.php:75
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:30 ../../../lw_application/views/bootstrap3/store/categories_view.php:28 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:87
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:30 ../../../lw_application/views/bootstrap3/store/temp.php:99
+msgid "Edit"
+msgstr "संपादित करा"
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:28 ../../../lw_application/views/bootstrap2/store/products_view.php:30 ../../../lw_application/views/bootstrap3/store/categories_view.php:28
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:30
+msgid "Delete"
+msgstr "हटवा"
+
+#: ../../../lw_application/views/bootstrap2/store/edit_category_form.php:33 ../../../lw_application/views/bootstrap2/store/edit_category_form.php:44 ../../../lw_application/views/bootstrap3/store/edit_category_form.php:32
+#: ../../../lw_application/views/bootstrap3/store/edit_category_form.php:48
+msgid "Edit Category"
+msgstr "श्रेणी संपादित करा"
+
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:110 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:122
+msgid "Current Thumbnail"
+msgstr "वर्तमान लघुप्रतिमा"
+
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:145 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:166
+msgid "Update Product"
+msgstr "अद्यतन उत्पादन"
+
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:146 ../../../lw_application/views/bootstrap3/store/edit_product_form.php:167
+msgid "View Product"
+msgstr "उत्पादन पहा"
+
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:56 ../../../lw_application/views/bootstrap3/store/temp.php:63
+msgid "Select Size"
+msgstr "आकार निवडा"
+
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:61 ../../../lw_application/views/bootstrap3/store/temp.php:72
+msgid "Select Color"
+msgstr "रंग निवडा"
+
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:72 ../../../lw_application/views/bootstrap2/store/product_details_view.php:137
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:82 ../../../lw_application/views/bootstrap3/store/product_details_view.php:153 ../../../lw_application/views/bootstrap3/store/temp.php:94
+#: ../../../lw_application/views/bootstrap3/store/temp.php:169
+msgid "Add to"
+msgstr "जोडू"
+
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:15 ../../../lw_application/views/bootstrap3/store/products_list_view.php:15
+msgid "Sort by"
+msgstr "क्रमवारी लावा"
+
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:19 ../../../lw_application/views/bootstrap3/store/products_list_view.php:20
+msgid "Description"
+msgstr "वर्णन"
+
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:29 ../../../lw_application/views/bootstrap3/store/products_list_view.php:35
+msgid "View Details"
+msgstr "तपशील पहा"
+
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:33 ../../../lw_application/views/bootstrap3/store/products_list_view.php:39
+msgid "There are no products to show!!"
+msgstr "दर्शविण्यासाठी कोणतेही उत्पादन नाहीत !!"
+
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:13 ../../../lw_application/views/bootstrap2/template/sidebar.php:24 ../../../lw_application/views/bootstrap3/store/products_view.php:13
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:22
+msgid "Manage Products"
+msgstr "उत्पादने व्यवस्थापित करा"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:41 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:48
+msgid "Australian Dollar"
+msgstr "ऑस्ट्रेलियन डॉलर"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:42 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:49
+msgid "Canadian Dollar"
+msgstr "कॅनेडियन डॉलर"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:43 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:50
+msgid "Euro"
+msgstr "युरो"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:44 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:51
+msgid "British Pound"
+msgstr "ब्रिटिश पाऊंड"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:45 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:52
+msgid "U.S. Dollar"
+msgstr "यूएस डॉलर"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:46 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:53
+msgid "New Zealand Dollar"
+msgstr "न्यूझीलंड डॉलर"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:47 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:54
+msgid "Swiss Franc"
+msgstr "स्विस फ्रँक"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:48 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:55
+msgid "Hong Kong Dollar"
+msgstr "हाँगकाँग डॉलर"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:49 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:56
+msgid "Singapore Dollar"
+msgstr "सिंगापूर डॉलर"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:50 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:57
+msgid "Swedish Krona"
+msgstr "स्वीडिश क्रोन"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:51 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:58
+msgid "Danish Krone"
+msgstr "डॅनिश क्रोन"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:52 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:59
+msgid "Polish Zloty"
+msgstr "पोलिश झ्लोटी"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:53 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:60
+msgid "Norwegian Krone"
+msgstr "नॉर्वेजियन क्रोन"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:54 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:61
+msgid "Hungarian Forint"
+msgstr "हंगेरियन फोरिंट"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:55 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:62
+msgid "Czech Koruna"
+msgstr "चेक कोरुना"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:56 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:63
+msgid "Israeli New Shekel"
+msgstr "इस्रायली न्यू शेकेल"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:57 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:64
+msgid "Mexican Peso"
+msgstr "मेक्सिकन पेसो"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:58 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:65
+msgid "Brazilian Real (only for Brazilian members)"
+msgstr "ब्राझीलियन रिअल (केवळ ब्राझिलियन सदस्यांसाठी)"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:59 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:66
+msgid "Malaysian Ringgit (only for Malaysian members)"
+msgstr "मलेशियन रिंगगिट (केवळ मलेशियन सदस्यांसाठी)"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:60 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:67
+msgid "Philippine Peso"
+msgstr "फिलीपीन पेसो"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:61 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:68
+msgid "New Taiwan Dollar"
+msgstr "न्यू तैवान डॉलर"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:62 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:69
+msgid "Thai Baht"
+msgstr "थाई बहत"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:63 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:70
+msgid "Turkish Lira (only for Turkish members)"
+msgstr "तुर्की लीरा (केवळ तुर्की सदस्यांसाठी)"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:126 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:143
+msgid "Edit Store Settings"
+msgstr "स्टोअर सेटिंग्ज संपादित करा"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:137 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:157
+msgid "Logo URL"
+msgstr "लोगो यूआरएल"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:141 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:162
+msgid "Current Logo"
+msgstr "वर्तमान लोगो"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:151 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:175
+msgid "Note"
+msgstr "टीप"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:151 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:175
+msgid "it will use for PayPal as well as Submit Order."
+msgstr "ते पेपल तसेच सबमिट ऑर्डरसाठी वापरेल."
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:157 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:181
+msgid "Checkout Options"
+msgstr "चेकआउट पर्याय"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:161 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:184
+msgid "Use PayPal"
+msgstr "PayPal वापरा"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:169 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:187
+msgid "Use Submit Order by Email"
+msgstr "ईमेलद्वारे सबमिट ऑर्डर वापरा"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:196 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:212
+msgid "Refer for"
+msgstr "चा संदर्भ घ्या"
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:196 ../../../lw_application/views/bootstrap3/store/store_settings_form.php:212
+msgid "ASCII Codes"
+msgstr "एएससीआयआय कोड"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:20 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:20
+msgid "First Name"
+msgstr "पहिले नाव"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:30 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:31
+msgid "Last Name"
+msgstr "आडनाव"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:93 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:101
+msgid "We need some details"
+msgstr "आम्हाला काही माहिती हवी आहे"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:130 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:143
+msgid "Street"
+msgstr "रस्ता"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:144 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:166
+msgid "ZIP"
+msgstr "झिप"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:151 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:179
+msgid "Ph"
+msgstr "पीएच"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:175 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:214
+msgid "Back to Cart"
+msgstr "कार्ट वर परत"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:221 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:264
+msgid "Processing..."
+msgstr "प्रक्रिया करीत आहे ..."
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:229 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:272
+msgid "Order Submitted Successfully"
+msgstr "ऑर्डर यशस्वीरित्या सबमिट केली"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:230
+msgid "Close Details"
+msgstr "तपशील बंद करा"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:230
+msgid "Close"
+msgstr "बंद"
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:234 ../../../lw_application/views/bootstrap3/store/submit_order_form.php:277
+msgid "Error Occured. Try Again"
+msgstr "त्रुटी आली. पुन्हा प्रयत्न करा"
+
+#: ../../../lw_application/views/bootstrap2/template.php:85 ../../../lw_application/views/bootstrap3/template.php:99
+msgid "Home"
+msgstr "घर"
+
+#: ../../../lw_application/views/bootstrap2/template.php:96 ../../../lw_application/views/bootstrap3/template.php:111
+msgid "Howdy"
+msgstr "किती"
+
+#: ../../../lw_application/views/bootstrap2/template.php:131 ../../../lw_application/views/bootstrap3/template.php:146
+msgid "Demo purposes only. Nothing will save!!"
+msgstr "केवळ डेमो हेतू. काहीही जतन होणार नाही !!"
+
+#: ../../../lw_application/views/bootstrap2/template.php:153 ../../../lw_application/views/bootstrap3/template.php:168
+msgid "&copy; %year% %store_name%"
+msgstr "कॉपी करा % वर्ष%% store_name%"
+
+#: ../../../lw_application/views/bootstrap2/template.php:158 ../../../lw_application/views/bootstrap3/template.php:175
+msgid "Powered by <a href=\"http://livelycart.com\" title=\"Powered by LivelyCart\" target=\"_blank\">LivelyCart</a> - "
+msgstr "<a href=\"http://livelycart.com\" title=\"Powered द्वारे LivelyCart\" target=\"_blank\"> LivelyCart </a> द्वारा समर्थित - "
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:49 ../../../lw_application/views/bootstrap3/template/js_scripts.php:43
+msgid "Warning!"
+msgstr "चेतावणी!"
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:59 ../../../lw_application/views/bootstrap3/template/js_scripts.php:53
+msgid "add size"
+msgstr "आकार जोडा"
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:60 ../../../lw_application/views/bootstrap3/template/js_scripts.php:54
+msgid "add color"
+msgstr "रंग जोडा"
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:67 ../../../lw_application/views/bootstrap3/template/js_scripts.php:61
+msgid "Do you really want to delete this Product?"
+msgstr "आपण खरोखर हे उत्पादन हटवू इच्छिता?"
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:77 ../../../lw_application/views/bootstrap3/template/js_scripts.php:71
+msgid "Do you really want to delete this Category? All the products within this category will be deleted!!"
+msgstr "आपण खरोखर ही श्रेणी हटवू इच्छिता? या श्रेणीतील सर्व उत्पादने हटविली जातील !!"
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:16 ../../../lw_application/views/bootstrap3/template/sidebar.php:17
+msgid "Admin Area"
+msgstr "प्रशासन क्षेत्र"
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:19 ../../../lw_application/views/bootstrap3/template/sidebar.php:19
+msgid "Store Settings"
+msgstr "स्टोअर सेटिंग्ज"
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:28 ../../../lw_application/views/bootstrap3/template/sidebar.php:25
+msgid "Admin Settings"
+msgstr "प्रशासन सेटिंग्ज"
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:39 ../../../lw_application/views/bootstrap2/template/sidebar.php:43 ../../../lw_application/views/bootstrap3/template/sidebar.php:42
+msgid "Search"
+msgstr "शोध"
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:48 ../../../lw_application/views/bootstrap3/template/sidebar.php:51
+msgid "Categories"
+msgstr "श्रेण्या"
+
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:83
+msgid "Add New Product"
+msgstr "नवीन उत्पादन जोडा"
+
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:40
+msgid "Remove"
+msgstr "काढा"
+
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:44
+msgid "Edit Product Details"
+msgstr "उत्पादन तपशील संपादित करा"
+
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:136
+msgid "<span class=\"help-inline\">Use <strong>%shipping_charge%</strong> for No Free Shipping</span>"
+msgstr "<span class=\"help-inline\"> कोणतेही विनामूल्य शिपिंगसाठी <strong> %shipping_charge% </strong> वापरा </span>"
+
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:34
+msgid "Product Search"
+msgstr "उत्पादन शोध"
+
+#, fuzzy
+#~ msgid "%d items went to the %user% \n"
+#~ msgstr "%d डुकरे %user% ला गेले.,\n"

@@ -1,0 +1,14 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^3.3"
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "files": [
+            "php-gettext-1.0.12/gettext.inc"
+        ],
+        "psr-4": {
+        }
+    }
+}
