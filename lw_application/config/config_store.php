@@ -31,7 +31,7 @@ $config['availableLanguages']			= array(
 												'es_ES' => 'español',
 											);
 /*set your store default language from above array as given*/
-$config['default_language']				= envItem('DEFAULT_LANG', 'en_US');
+$config['default_language']				= envItem('DEFAULT_LANG', 'fr_FR');
 /*do you want to get order email in your default lanaguage*/
 $config['send_order_in_default_language']	= true;
 
